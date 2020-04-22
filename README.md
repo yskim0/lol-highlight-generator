@@ -1,1 +1,0 @@
-# lol-highlight-generator
